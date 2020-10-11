@@ -210,3 +210,32 @@
 
             词性表在 4c 分支
     情感分析
+
+
+第十一节：snowNLP 
+    特性：
+        基础的算法是基于购物评价训练的，所以在判断购物评价是会更准确，其它则较差
+        可以进行情感分析
+
+    from snownlp import SnowNLP
+    s = SnowNLP(text)
+    list(s.tags) 查看分词
+    s.sentiments 情感分析，输出 0-1 的值，越接近 1 越正向
+
+    训练 SnowNLP
+    将训练结果保存成另一个模型
+    from snownlp import seg
+    seg.train('data.txt')
+    seg.save('seg.marshal')
+    然后修改 snownlp/seg/__init__.py 的 data_path 指向新的模型即可继续训练新模型
+
+    其它
+        s.pinyin 文字转拼音
+        s.han 简繁体转换
+        s.keywords(limit=n) 提取 n 个关键词
+
+    跟 pandas 结合
+        排序
+        order = ['a', 'b']
+        df = df[order]
+
