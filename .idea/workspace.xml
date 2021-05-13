@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d51c0cb3-f520-4997-8267-f321499e3125" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/machine/week2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine/week2/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine/week2/target_encoding_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine/week2/tm.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/fly.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/spiders/mao_yan.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/spiders/mao_yan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/spiders/movie.csv" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/spiders/movie.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/fly/spiders/movie1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/fly/spiders/movie1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/movie2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/movie2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/fly/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/fly/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/maoyan_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/maoyan_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/movie1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/movie1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week01/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/scrapyweek02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/movie2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/movie2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/config/db_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/config/db_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/config/headers.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/config/headers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/spiders/mao_yan.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/spiders/mao_yan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part1/scrapyweek02/scrapyweek02/utils/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part1/scrapyweek02/scrapyweek02/utils/mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/part2/webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week02/part2/webdriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week03/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/output_ip.json" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week03/output_ip.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/output_port.json" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week03/output_port.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/part1/scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week03/part1/scanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week04/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/part1/InsteadMysSqlByPandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week04/part1/InsteadMysSqlByPandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week05/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week05/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/dataTables.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/dataTables.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/jquery.slotmachine.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/jquery.slotmachine.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/metisMenu.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/metisMenu.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/morris.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/morris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/responsive.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/responsive.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/sb-admin-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/sb-admin-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/css/timeline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/images/sort_asc.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/images/sort_asc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/images/sort_asc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/images/sort_asc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/images/sort_both.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/images/sort_both.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/images/sort_desc.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/images/sort_desc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/images/sort_desc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/images/sort_desc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/dataTables.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/dataTables.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/dataTables.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/excanvas.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/excanvas.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/flot-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/flot-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.flot.tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/jquery.slotmachine.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/jquery.slotmachine.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/metisMenu.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/metisMenu.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/morris-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/morris-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/morris.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/morris.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/raphael-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/raphael-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/static/js/sb-admin-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/static/js/sb-admin-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/base_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/base_layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/douban.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/douban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/flot.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/flot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/morris.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/morris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/panels-wells.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/panels-wells.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/templates/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/templates/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/douban_comment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/douban_comment/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/jk_douban/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/jk_douban/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/jk_douban/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/jk_douban/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/jk_douban/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/jk_douban/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/jk_douban/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/jk_douban/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week06/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week07/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week07/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week07/part1/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week07/part1/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week08+09/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week08+09/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week08+09/part1/sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week08+09/part1/sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week08+09/part2/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week08+09/part2/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week08+09/part3/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week08+09/part3/timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/jk_login/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/jk_login/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/jk_login/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/jk_login/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/jk_login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/jk_login/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/jk_login/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/jk_login/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/converters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/templates/form1.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/templates/form1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/templates/form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/templates/form2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/login/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10+11/part1/jk_login/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week10+11/part1/jk_login/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/hwq_test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/hwq_test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/jk_phone_admin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/jk_phone_admin/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/jk_phone_admin/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/jk_phone_admin/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/jk_phone_admin/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/jk_phone_admin/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/jk_phone_admin/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/jk_phone_admin/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/dataTables.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/dataTables.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/jquery.slotmachine.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/jquery.slotmachine.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/metisMenu.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/metisMenu.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/morris.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/morris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/responsive.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/responsive.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/sb-admin-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/sb-admin-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/css/timeline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/images/sort_asc.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/images/sort_asc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/images/sort_asc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/images/sort_asc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/images/sort_both.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/images/sort_both.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/images/sort_desc.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/images/sort_desc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/images/sort_desc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/images/sort_desc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/dataTables.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/dataTables.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/dataTables.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/excanvas.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/excanvas.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/flot-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/flot-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/jquery.slotmachine.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/jquery.slotmachine.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/metisMenu.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/metisMenu.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/morris-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/morris-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/morris.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/morris.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/raphael-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/raphael-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/static/js/sb-admin-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/static/js/sb-admin-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/base_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/base_layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/douban.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/douban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/flot.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/flot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/morris.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/morris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/panels-wells.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/panels-wells.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/templates/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/templates/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/jk_phone_admin/phone_comment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/jk_phone_admin/phone_comment/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/bak_utils/bak_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/bak_utils/bak_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/bak_utils/bak_pdo.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/bak_utils/bak_pdo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/config/db_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/config/db_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/config/spider_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/config/spider_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/phone/spiders/phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/phone/spiders/phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week12/phone/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/super_python/week12/phone/scrapy.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fAlVsk9cX8YHq8j9amiFmiyB6l" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/machine/week2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_jk" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python_jk" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/machine/week2" />
+      <recent name="$PROJECT_DIR$/week10+11/part1" />
+      <recent name="$PROJECT_DIR$/week04/part1" />
+      <recent name="$PROJECT_DIR$/week03/part1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/super_python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_jk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week08+09/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week08+09/part2/map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.map" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d51c0cb3-f520-4997-8267-f321499e3125" name="Default Changelist" comment="" />
+      <created>1595668804958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595668804958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
